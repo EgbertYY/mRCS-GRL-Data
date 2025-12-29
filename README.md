@@ -1,8 +1,8 @@
 # mRCS-GRL-Data
-Official simulated data for the paper "mRCS-GRL: A Lightweight High-Precision Multi-Target RCS Prediction Algorithm".
+Official simulation data for the paper "mRCS-GRL: A Lightweight High-Precision Multi-Target RCS Prediction Algorithm".
 
 ## Introduction
-This repository contains the comprehensive electromagnetic scattering simulated data constructed using Altair FEKO. The dataset covers three typical electromagnetic scattering regimes:
+This repository contains the comprehensive electromagnetic scattering simulation data constructed using Altair FEKO. The dataset covers three typical electromagnetic scattering regimes:
 **Rayleigh Region (5 MHz)**
 **Resonant Region (400 MHz)**
 **Optical Region (1 GHz)**
